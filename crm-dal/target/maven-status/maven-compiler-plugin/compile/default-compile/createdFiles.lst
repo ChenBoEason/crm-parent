@@ -1,0 +1,6 @@
+com\pzhu\crm\dao\entity\CustomerDOExample.class
+com\pzhu\crm\dao\mapper\CustomerMapper.class
+com\pzhu\crm\dao\entity\CustomerDOExample$GeneratedCriteria.class
+com\pzhu\crm\dao\entity\CustomerDOExample$Criteria.class
+com\pzhu\crm\dao\entity\CustomerDOExample$Criterion.class
+com\pzhu\crm\dao\entity\CustomerDO.class

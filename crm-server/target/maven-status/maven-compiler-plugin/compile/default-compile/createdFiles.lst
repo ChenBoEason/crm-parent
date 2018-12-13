@@ -1,0 +1,5 @@
+com\pzhu\crm\utils\StringUtil.class
+com\pzhu\crm\service\ICustomerService.class
+com\pzhu\crm\CrmServerApplication.class
+com\pzhu\crm\service\impl\CustomerServiceImpl.class
+com\pzhu\crm\dubbo\impl\CustomerFacadeImpl.class

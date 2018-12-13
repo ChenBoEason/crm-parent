@@ -1,0 +1,5 @@
+com\pzhu\crm\dataobj\BaseResult.class
+com\pzhu\crm\dubbo\CustomerFacade.class
+com\pzhu\crm\constants\CrmConstant.class
+com\pzhu\crm\dto\CustomerDTO.class
+com\pzhu\crm\dataobj\Pagination.class
